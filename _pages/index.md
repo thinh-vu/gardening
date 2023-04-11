@@ -1,5 +1,4 @@
 ---
-title : Index
 layout: page
 title: Home
 id: home

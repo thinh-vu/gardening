@@ -8,5 +8,5 @@ date : 09-04-2023
 
 Những ý tưởng, suy nghĩ mới xuất hiện.
 
-- Related: [[Index]]
+- Related: [[map]]
 
