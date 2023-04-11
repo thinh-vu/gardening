@@ -1,6 +1,5 @@
 ---
 title : Thiết lập Digital Garden với Netlify
-aliases: [Thiết lập Digital Garden với Netlify]
 feed: hide
 permalink: /digital-garden-jekyll-github-netlify
 date : 09-04-2023

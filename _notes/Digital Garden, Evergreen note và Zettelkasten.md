@@ -3,7 +3,6 @@ title : Digital Garden, Evergreen note và Zettelkasten
 feed: show
 permalink: digital-garden-evergreen-note-zettelkasten
 date : 10-04-2023
-aliases: [Evergreen note và Zettelkasten]
 ---
 
 - 🔗 [[Cẩm nang "làm vườn" 4.0]]

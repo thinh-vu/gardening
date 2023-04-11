@@ -3,7 +3,6 @@ title : Viết là tư duy
 feed: show
 permalink: /writing-is-thinking
 date : 10-04-2023
-aliases: [Writing is Thinking]
 ---
 
 

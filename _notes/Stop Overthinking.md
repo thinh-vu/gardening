@@ -3,7 +3,6 @@ title : Stop Overthinking
 feed: show
 permalink: /stop-overthinking-book
 date : 10-04-2023
-aliases: [Stop Overthinking]
 ---
 
 # Book Info 📚

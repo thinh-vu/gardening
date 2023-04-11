@@ -1,6 +1,5 @@
 ---
 title : Kim tự tháp Minto
-aliases:: [Kim tự tháp Minto]
 feed: show
 permalink: minto pyramid
 date : 09-04-2023

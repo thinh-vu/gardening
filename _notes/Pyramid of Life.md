@@ -3,7 +3,6 @@ title : Pyramid of Life
 feed: show
 permalink: 
 date : 11-04-2023
-aliases: [Pyramid of Life]
 ---
 
 Kết nối với Ikigai, vòng tròn năng lực

@@ -3,7 +3,6 @@ title : Chuyện hẹn hò
 feed: show
 permalink: /chuyen-hen-ho
 date : 09-04-2023
-aliases: [Chuyện hẹn hò]
 ---
 
 - 🔗 [[_notes/Public/Communication]] [[_notes/Public/Relationship]]
