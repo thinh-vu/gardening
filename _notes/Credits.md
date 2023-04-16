@@ -6,7 +6,7 @@ permalink: /credits
 format: list
 ---
 
-- Related: [[map]]
+- Related: [[Index]]
 
 ___
 

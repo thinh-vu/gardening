@@ -14,24 +14,22 @@ Tại đây, bạn sẽ tìm thấy các thông tin và suy nghĩ của tôi v�
 
 Lưu ý: Những ghi chú này tập trung nhiều hơn vào việc giúp "tôi của ngày mai" hiểu và suy nghĩ hơn là cho bạn tìm đọc, do đó bạn cũng đừng bất ngờ nếu nó không trau chuốt như nội dung trên Blog.
 
-Bạn có thể bắt đầu dạo quanh khu vườn này tại đây.
 Nếu chủ đề nào bạn cảm thấy thú vị, đừng ngại trao đổi thêm với tôi qua [Messenger](https://www.messenger.com/t/mr.thinh.ueh) hoặc [Linkedin](https://www.linkedin.com/in/thinh-vu)
 
 ---
 
+🇬🇧 Greetings and welcome to my Digital Garden project, a space where I openly share my notes before refining them into permanent blog posts that can be found on my website, <a href="https://thinhvu.com/"> Thinh Vu Blog </a>. Here, you will find a collection of my musings and insights on various topics that I am passionate about. Feel free to explore and engage with me in discussions as we cultivate and nurture this digital garden together.
+Let's get started from here: [[map]]
+
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Bạn có thể dạo quan khu vườn này và bắt đầu khám phá với danh mục nội dung <span style="font-weight: bold">[[map]]</span>.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-<strong>Recently updated notes</strong>
+<strong>Các ghi chú mới nhất</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
+  {% for note in recent_notes limit: 10 %}
     <li>
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
     </li>

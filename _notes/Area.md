@@ -8,5 +8,5 @@ date : 09-04-2023
 
 Đây là các ghi chú thuộc những lĩnh vực tôi quan tâm.
 
-- Related: [[map]]
+- Related: [[Index]]
 
