@@ -1,8 +1,8 @@
 ---
 title : Happy Life
-permalink: 
+permalink: /happy-life
 feed: show
 format: list
-date : 17-04-2023 12:39
+date : 16-04-2023
 ---
 
