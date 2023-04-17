@@ -6,6 +6,6 @@ permalink: /relationship
 date : 10-04-2023
 ---
 
--  [[Happy Life]]
+-  [[happy-life]]
 
 
