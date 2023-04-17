@@ -31,7 +31,7 @@ ___
 ### 1. WHY A PYRAMID STRUCTURE
 #### SORTING INTO PYRAMIDS
 
-![](src/Pasted%20image%2020230409200507.png)
+![](/src/Pasted%20image%2020230409200507.png)
 
 **The Need to State the Logic**
 
@@ -58,7 +58,7 @@ If you think for a moment about what you actua11y do when you write, you can see
 2. Ideas in each grouping must always be the same kind of idea. 
 3. Ideas in each grouping must always be logically ordered.
 P10
-![](src/Pasted%20image%2020230410203514.png)
+![](/src/Pasted%20image%2020230410203514.png)
 
 Essentially it says that there are only four possible logical ways in which to order a set of ideas:
 - Deductively (major premise, minor premise, conclusion) 

@@ -60,7 +60,7 @@ date : 11-04-2023
 ## Resources
 ---
 
-![](src/Pasted%20image%2020230416192347.png)
+![](/src/Pasted%20image%2020230416192347.png)
 Source: [4weekMBA](https://fourweekmba.com/circle-of-competence/)
 
 ---
