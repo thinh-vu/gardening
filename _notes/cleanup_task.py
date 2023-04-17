@@ -48,4 +48,4 @@ def replace_string_in_files(folder_path, search_for, replace_with):
 
 # note_folder = '/Users/thinh.vu/Library/CloudStorage/OneDrive-Personal/Github/gardening/_notes'
 note_folder = '/Users/thinh.vu/Library/CloudStorage/OneDrive-Personal/Github/gardening/_notes'
-replace_string_in_files(note_folder, '[[Learn]]', '[[Lifelong Learning]]')
+replace_string_in_files(note_folder, '_notes/category/', '')
