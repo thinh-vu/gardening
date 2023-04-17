@@ -5,7 +5,7 @@ feed: show
 date : 15-04-2023 14:43
 ---
 
-[[Learn]]
+[[Lifelong Learning]]
 
 > [!quote]
 > The most important thing to emphasize in education are things like **emotional intelligence** and **mental stability**. Because the one thing they will need for sure is the ability to reinvent themselves repeatedly throughout their lives. -- Yuval Noah Harazi
