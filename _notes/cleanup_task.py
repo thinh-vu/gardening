@@ -46,5 +46,6 @@ def replace_string_in_files(folder_path, search_for, replace_with):
 
 # Apply functions
 
+# note_folder = '/Users/thinh.vu/Library/CloudStorage/OneDrive-Personal/Github/gardening/_notes'
 note_folder = '/Users/thinh.vu/Library/CloudStorage/OneDrive-Personal/Github/gardening/_notes'
-replace_string_in_files(note_folder, '[[Index]]', '[[Happy Life]]')
+replace_string_in_files(note_folder, '[[Happy Life]]', '[[map]]')

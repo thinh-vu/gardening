@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Happy Life
+title: Map
 permalink: /map
 ---

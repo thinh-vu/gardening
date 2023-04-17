@@ -1,11 +1,11 @@
 ---
 title : Financial Security
-permalink: 
+permalink: /financial-security
 feed: show
 format: list
 date : 09-04-2023
  
 ---
 
-Related: [[Happy Life]]
+Related: [[map]]
 

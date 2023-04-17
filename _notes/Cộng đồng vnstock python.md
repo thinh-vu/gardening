@@ -2,7 +2,7 @@
 title : Cộng đồng vnstock python
 permalink: /vnstock-python-community
 feed: hide
-date : 15-04-2023 06:01
+date : 15-04-2023
 ---
 
 [[Community building]]  [[Education toward Freedom]]
