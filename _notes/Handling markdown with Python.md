@@ -2,7 +2,6 @@
 title : Handling markdown with Python
 permalink: /markdown-python
 feed: show
-aliases: [Handling markdown with Python]
 date : 17-04-2023 09:56
  
 ---

@@ -2,7 +2,6 @@
 title : Cộng đồng vnstock python
 permalink: /vnstock-python-community
 feed: hide
-aliases: [Cộng đồng vnstock python]
 date : 15-04-2023 06:01
 ---
 

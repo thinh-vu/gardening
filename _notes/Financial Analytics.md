@@ -2,7 +2,6 @@
 title : Financial Analytics
 permalink: /financial-analytics
 feed: hide
-aliases: [Financial Analytics]
 date : 15-04-2023 13:46
 ---
 
