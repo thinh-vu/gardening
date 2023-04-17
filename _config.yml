@@ -20,7 +20,7 @@ open_external_links_in_new_tab: true
 embed_tweets: false
 
 permalink:           pretty
-relative_permalinks: false
+relative_permalinks: true
 
 plugins:
   - jekyll-last-modified-at
