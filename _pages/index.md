@@ -19,7 +19,7 @@ Nếu chủ đề nào bạn cảm thấy thú vị, đừng ngại trao đổi 
 ---
 
 🇬🇧 Greetings and welcome to my Digital Garden project, a space where I openly share my notes before refining them into permanent blog posts that can be found on my website, <a href="https://thinhvu.com/"> Thinh Vu Blog </a>. Here, you will find a collection of my musings and insights on various topics that I am passionate about. Feel free to explore and engage with me in discussions as we cultivate and nurture this digital garden together.
-Let's get started from here: [[_notes/category/map]]
+Let's get started from here: [[map]]
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Bạn có thể dạo quan khu vườn này và bắt đầu khám phá với danh mục nội dung <span style="font-weight: bold">[[map]]</span>.
