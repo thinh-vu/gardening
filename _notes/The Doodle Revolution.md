@@ -1,5 +1,5 @@
 ---
-title : The Doodle Revolution: Unlock the Power to Think Differently
+title : The Doodle Revolution
 permalink: /the-doodle-revolution
 feed: show
 date : 08-05-2023
