@@ -1,4 +1,4 @@
----
+new---
 title : The Minto Pyramid Principle - Barbara Minto
 feed: show
 date : 08-04-2023

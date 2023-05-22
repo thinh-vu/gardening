@@ -18,6 +18,7 @@ date : 09-05-2023
 	- Zoom
 - Đặt lịch hẹn
 	- Calendly
+
 # Media
 - Thiết kế banner, chỉnh sửa ảnh minh họa cho Blog/Video (premium, web): [Canva](https://www.canva.com/)
 - Audio editor (web, open-source & free): [Audio Mass](https://audiomass.co )
@@ -56,6 +57,7 @@ date : 09-05-2023
 - Google Calendar
 - Samsung Calendar (Ứng dụng mặc định, Android)
 - Todoist (bản trả phí)
+
 # Web Browser
 - Chrome (tất cả thiết bị)
 - Samsung Browser (mobile)
