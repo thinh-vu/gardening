@@ -33,6 +33,9 @@ date : 09-05-2023
 - Screen recording
 	- OBS Studio (desktop)
 	- Screen recorder (mobile, tính năng mặc định trên máy Samsung)
+- Screenshot
+	- Flameshot (All) https://flameshot.org/#download
+	- ShareX (Windows) https://getsharex.com/
 
 # Personal Knowledge Management
 - Note-taking: 

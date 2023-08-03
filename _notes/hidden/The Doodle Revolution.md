@@ -7,7 +7,7 @@ date : 08-05-2023
 
 # 📚 Book Info
 - Author: [[Sunni Brown]]
-- Related: [[Note-taking]] [[_notes/Visual Note-taking]] [[Read]]
+- Related: [[Note-taking]] [[Visual Note-taking]] [[Read]]
 
 # 💬 Summary
 

@@ -5,7 +5,7 @@ feed: show
 date : 25-04-2023
 ---
 
-[[Lifelong Learning]] [[Generative AI]]
+[[Lifelong Learning]] [[_notes/hidden/Generative AI]]
 
 [#chatgpt](https://www.linkedin.com/feed/hashtag/?keywords=chatgpt&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7056517171799064576) [#python](https://www.linkedin.com/feed/hashtag/?keywords=python&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7056517171799064576) [#diagram](https://www.linkedin.com/feed/hashtag/?keywords=diagram&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7056517171799064576) [#seo](https://www.linkedin.com/feed/hashtag/?keywords=seo&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7056517171799064576) [#keyword_clustering](https://www.linkedin.com/feed/hashtag/?keywords=keyword_clustering&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7056517171799064576)  
 🎉 Pro Tip Alert! 🎉  
